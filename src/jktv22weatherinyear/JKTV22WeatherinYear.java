@@ -5,6 +5,8 @@
  */
 package jktv22weatherinyear;
 
+import jktv22weatherinyear.App;
+
 /**
  *
  * @author pupil
